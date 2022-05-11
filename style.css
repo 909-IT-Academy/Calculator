@@ -1,0 +1,18 @@
+.display{
+    font-size: 100px;
+}
+
+.btn{
+    font-size: 50px;
+    border-radius: 75%;
+   
+    
+    
+} 
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+    padding: 10px;
+  }
+
